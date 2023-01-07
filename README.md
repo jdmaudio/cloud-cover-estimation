@@ -3,7 +3,7 @@
 Juypter scripts which present methods for cloud cover estimation (see CloudCover.ipynb and MultipleThreshold.ipynb) 
 
 ### CloudCover.ipynb
-Daytime method uses a simple pixel red-blue ratio approach. The daytime implementation needs some improvement - the very bright areas around the sun are sometimes identified as clouds leading to cloud cover overestimation. Ideally a solar would be applied.
+Daytime method uses a simple pixel red-blue ratio approach. The daytime implementation needs some improvement - the very bright areas around the sun are sometimes identified as clouds leading to cloud cover overestimation. Ideally a solar mask would be applied.
 
 - Lothon, M., Barnéoud, P., Gabella, O., Lohou, F., Derrien, S., Rondi, S., Chiriaco, M., Bastin, S., Dupont, J.-C., Haeffelin, M., Badosa, J., Pascal, N., and Montoux, N.: ELIFAN, an algorithm for the estimation of cloud cover from sky imagers, Atmos. Meas. Tech., 12, 5519–5534, https://doi.org/10.5194/amt-12-5519-2019, 2019
 
